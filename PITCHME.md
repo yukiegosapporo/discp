@@ -2,7 +2,6 @@
 
 ##### ドイツ・ベルリンで活躍する様々な成功者を通じて
 
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
 
 <br>
 <span style="color:gray">加藤 佑希</span>

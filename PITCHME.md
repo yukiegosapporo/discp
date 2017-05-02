@@ -8,17 +8,17 @@
 <br>
 ---
 
-<span style="color:black"> - 講演の主旨・流れ</span>
+<span style="color:black;float:left"> - 講演の主旨・流れ</span>
 <br>
-<span style="color:gray"> - 自己紹介・キャリア紹介</span>
+<span style="color:gray;float:left"> - 自己紹介・キャリア紹介</span>
 <br>
-<span style="color:gray"> - なんで海外？なんでドイツ・ベルリン？</span>
+<span style="color:gray;float:left"> - なんで海外？なんでドイツ・ベルリン？</span>
 <br>
-<span style="color:gray"> - ドイツで活躍する日本人成功者たち</span>
+<span style="color:gray;float:left"> - ドイツで活躍する日本人成功者たち</span>
 <br>
-<span style="color:gray"> - 海外で働くためのスキル・メンタリティとは？</span>
+<span style="color:gray;float:left"> - 海外で働くためのスキル・メンタリティとは？</span>
 <br>
-<span style="color:gray"> - 学生のときに何を準備すべきか</span>
+<span style="color:gray;float:left"> - 学生のときに何を準備すべきか</span>
 
 ---
 

@@ -90,13 +90,13 @@
 
 #### キャリア概要
 
-<span style="color:gray;float:left"> - 大学生</span><span style="color: #666666">: 国際協力業界が夢</span>
+<span style="color:gray;float:left"> - 大学生</span><span style="color: #666666;float:left">: 国際協力業界が夢</span>
 <br>
-<span style="color:gray;float:left"> - エンジニア・コンサルタント</span><span style="color: #666666">: 国際協力業界</span>
+<span style="color:gray;float:left"> - エンジニア・コンサルタント</span><span style="color: #666666;float:left">: 国際協力業界</span>
 <br>
-<span style="color:gray;float:left"> - 大学院生</span><span style="color: #666666">: 思考の変化</span>
+<span style="color:gray;float:left"> - 大学院生</span><span style="color: #666666;float:left">: 思考の変化</span>
 <br>
-<span style="color:gray;float:left"> - データサイエンティスト</span><span style="color: #666666">: マーケティング、ゲーム、広告、交通</span>
+<span style="color:gray;float:left"> - データサイエンティスト</span><span style="color: #666666;float:left">: マーケティング、ゲーム、広告、交通</span>
 ---
 
 <span style="color:black;float:left"> - 講演の主旨・流れ</span>
@@ -115,11 +115,11 @@
 
 #### 仕事
 
-<span style="color: #666666">インプット</span><span style="color:gray">: 時間、労力、経験・スキル</span>
+<span style="color: #666666;float:left">インプット</span><span style="color:gray">: 時間、労力、経験・スキル</span>
 <br>
-<span style="color: #666666">アウトプット</span><span style="color:gray">: お金、達成感・ストレス、経験・スキル</span>
+<span style="color: #666666;float:left">アウトプット</span><span style="color:gray">: お金、達成感・ストレス、経験・スキル</span>
 <br>
-<span style="color: #666666">制約・バリア</span><span style="color:gray">: 場所、同僚、文化・思想</span>
+<span style="color: #666666;float:left">制約・バリア</span><span style="color:gray">: 場所、同僚、文化・思想</span>
 <br>
 <span style="color:black">幸せ=f(インプット、アウトプット)なら、</span>
 <br>
@@ -134,7 +134,7 @@
 <br>
 <span style="color:black;float:left"> - 要素のウェイトがわからない</span>
 <br>
-<span style="color:#666666"> - 常に変化する</span>
+<span style="color:#666666;float:left"> - 常に変化する</span>
 <br>
 <br>
 
